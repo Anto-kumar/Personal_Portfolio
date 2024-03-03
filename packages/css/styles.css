@@ -193,7 +193,13 @@ img {
   align-items: center;
 }
 
-.nav__logo,
+.nav__logo
+{
+  font-size: 25px;
+  font-style: var(--first-color-lighter);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font
+}
 .nav__toggle {
   color: var(--title-color);
   font-weight: var(--font-medium);
